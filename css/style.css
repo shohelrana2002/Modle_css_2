@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+h3 {
+  color: green;
+  margin: 10px 20px;
+  padding: 20px;
+  font-family: tahoma;
+  font-weight: bolder;
+  font-size: 23px;
+  text-decoration: underline;
+  cursor: pointer;
+}
+p {
+  color: orange;
+  margin: 10px 20px;
+  padding: 20px;
+  font-family: tahoma;
+  font-weight: bolder;
+  font-size: 16px;
+  border: 2px solid orange;
+}
